@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"taquin.controller","l":"Control"},{"p":"taquin.model","l":"Grid"},{"p":"taquin","l":"Main"},{"p":"taquin.vue","l":"MainGame"},{"p":"taquin.vue","l":"Window"}];updateSearchResults();

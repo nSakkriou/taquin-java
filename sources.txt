@@ -1,0 +1,5 @@
+src\taquin\Main.java
+src\taquin\controller\Control.java
+src\taquin\model\Grid.java
+src\taquin\vue\MainGame.java
+src\taquin\vue\Window.java
